@@ -1,0 +1,12 @@
+<br><pre>Exception => file(/home/mohamed/sites/LaraAds/storage/database/geonames/countries/an.sql): failed to open stream: No such file or directory</pre>
+<br><pre>Exception => file(/home/mohamed/sites/LaraAds/storage/database/geonames/countries/aq.sql): failed to open stream: No such file or directory</pre>
+<br><pre>Exception => file(/home/mohamed/sites/LaraAds/storage/database/geonames/countries/bv.sql): failed to open stream: No such file or directory</pre>
+<br><pre>Exception => file(/home/mohamed/sites/LaraAds/storage/database/geonames/countries/cs.sql): failed to open stream: No such file or directory</pre>
+<br><pre>Exception => file(/home/mohamed/sites/LaraAds/storage/database/geonames/countries/hm.sql): failed to open stream: No such file or directory</pre>
+<br><pre>Exception => file(/home/mohamed/sites/LaraAds/storage/database/geonames/countries/io.sql): failed to open stream: No such file or directory</pre>
+<br><pre>Exception => file(/home/mohamed/sites/LaraAds/storage/database/geonames/countries/um.sql): failed to open stream: No such file or directory</pre>
+WARN: .ignore not loaded: since build 182.0 > PS-181.5281.35
+WARN: BashSupport not loaded: since build 182.2574 > PS-181.5281.35
+WARN: Handlebars/Mustache not loaded: since build 182.3458 > PS-181.5281.35
+WARN: Ideolog not loaded: since build 182.2457 > PS-181.5281.35
+WARN: EditorConfig not loaded: since build 182.2949 > PS-181.5281.35
